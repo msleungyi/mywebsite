@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 ---
 
-## Education
+### Education
 
 | Year                  | Degree and Institution                                                                 |
 |-----------------------|----------------------------------------------------------------------------------------|
@@ -13,7 +13,7 @@ permalink: /resume/
 | 2018–2019             | M.A. in Psychology, The Chinese University of Hong Kong                                |
 | 2012–2016             | B.Ed. in Chinese Language (First Class Honours), The Education University of Hong Kong |
 
-## Professional Experience (Selected)
+### Professional Experience (Selected)
 
 | Year                  | Position and Institution                                                               |
 |-----------------------|----------------------------------------------------------------------------------------|
