@@ -1,9 +1,7 @@
 title: "Anna Leung's Website"
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
+theme: minima
 
-navigation:
+navbar_links:
   - title: "Home"
     url: "/"
   - title: "CV"
