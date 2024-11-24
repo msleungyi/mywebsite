@@ -17,8 +17,7 @@ permalink: /cv/
 
 | Year                  | Position and Institution                                                               |
 |-----------------------|----------------------------------------------------------------------------------------|
-| 2020–Present          | Scientific Researcher, University Hospital, Ludwig-Maximilians-University of Munich    |
-| 2018                  | Student Research Assistant, The Chinese University of Hong Kong                        |
+| 2020–Present          | Scientific Researcher, University Hospital, Ludwig-Maximilians-University of Munich    |                    |
 | 2016–2018             | Primary School Teacher, S.K.H. Tin Wan Chi Nam Primary School, Hong Kong               |
 | 2015–2016             | Freelance Textbook Editor, The Commercial Press (HK) Ltd                               |
 | 2013–2016             | Student Research Assistant, The Education University of Hong Kong                      |
