@@ -8,7 +8,7 @@ This repository contains the source code for my academic website hosted on GitHu
 - Interactive blog posts and updates
 
 ## Usage
-To view the website, visit: [https://msleungyi.github.io/cv](https://msleungyi.github.io/cv/))
+To view the website, visit: [https://msleungyi.github.io/mywebsite](https://msleungyi.github.io/mywebsite/))
 
 ## Credits
 Built using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
