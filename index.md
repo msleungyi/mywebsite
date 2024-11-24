@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Welcome to My Academic Website"
 ---
 
 I’m Anna Leung, a doctoral candidate at the Ludwig-Maximilians-University of Munich, with a background as a Chinese language teacher in Hong Kong schools. My research focuses on understanding the causes and subtypes of developmental dyslexia, psychometrics in psycholinguistics, and the cognitive processes involved in reading.
