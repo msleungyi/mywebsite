@@ -9,7 +9,7 @@ This project reviews the range of data preprocessing techniques, statistical mod
 
 I serve as the co-PI of this project alongside Dr. Daniel Kristanto (University of Oldenburg). Our work is supported by the Treasure Box Funding for Early Career Researchers under the priority programme META-REP (SPP 2317), funded by the German Research Foundation (DFG).
 
-We are currently developing a Shiny App to visualise the multiverse of developmental dyslexia subtyping methods. A demo version is available [here](https://dyslexiaproject.shinyapps.io/profilingdyslexia/).
+We are currently developing a Shiny App to visualise the multiverse of developmental dyslexia subtyping methods. See [here](https://dyslexiaproject.shinyapps.io/profilingdyslexia/) for our demo Shiny App.
 
 ### Quantification of Heterogeneity in Ontological Definitions of Research Terms
 This project leverages natural language processing (NLP) techniques to quantify the variability in ontological definitions of research terms. These terms encompass concepts related to interdisciplinary research practices, statistical tests, and open scholarship.
