@@ -4,8 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
 ## Education
 - 2021–Present Dr. rer. biol. hum. in Psycholinguistics, Ludwig-Maximilians-University of Munich
 - 2019–2021    M.Sc. in Psychology: Learning Sciences, Ludwig-Maximilians-University of Munich
