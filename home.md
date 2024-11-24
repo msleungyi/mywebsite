@@ -12,6 +12,6 @@ permalink: /
     My research focuses on understanding the causes and subtypes of developmental dyslexia, psychometrics in psycholinguistics, and cognition in reading.
   </p>
   <p>
-    I also offer tailored public speaking training for academic contexts, empowering individuals of all ages to communicate with confidence and clarity.
+    I also offer tailored public speaking training for academic contexts, empowering individuals of all ages to communicate with confidence and clarity. Please contact me at leung.yi.lmu(at)gmail.com for more info.
   </p>
 </div>
