@@ -9,6 +9,6 @@ permalink: /publications/
 - Xenia Schmalz, Johannes Breuer, Mario Haim, Andrea Hildebrandt, Phillip Knöpfle, **Anna Yi Leung**, Timo B. Roettger. (2024; under review). Let’s Talk About Language—And Its Role for Replicability. MetaArXiv Preprints. Full text available [here](https://osf.io/preprints/metaarxiv/w2gb9). (Equal contributions from all authors)
 
 #### Learn more about my:
-[CV](https://msleungyi.github.io/mywebsite/cv/) |
+[Resume](https://msleungyi.github.io/mywebsite/resume/) |
 [Research Projects](https://msleungyi.github.io/mywebsite/projects/) |
 [Teaching](https://msleungyi.github.io/mywebsite/teaching/)
