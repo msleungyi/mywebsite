@@ -17,6 +17,9 @@ permalink: /
 
     <!-- Social Media Links -->
     <p>
+      <a href="https://orcid.org/0000-0003-0720-5036" target="_blank" style="margin: 0 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" style="width: 30px; height: 30px;">
+      </a>
       <a href="https://github.com/msleungyi" target="_blank" style="margin: 0 10px;">
         <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub">
       </a>
@@ -24,7 +27,7 @@ permalink: /
         <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn">
       </a>
       <a href="https://x.com/leungyianna" target="_blank" style="margin: 0 10px;">
-        <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" alt="Twitter">
+        <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" alt="Twitter">   
       </a>
     </p>
   </div>
