@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-# Anna Leung
+# Anna Yi Leung
 - Researcher in **psycholinguistics** at the Ludwig-Maximilians-University of Munich
 - Former **Chinese language teacher** in Hong Kong schools
 
