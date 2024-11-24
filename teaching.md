@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: page
 title: "Teaching"
+permalink: /teaching/
 ---
 
 # Teaching
