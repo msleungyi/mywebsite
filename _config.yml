@@ -3,7 +3,7 @@ theme: minima
 
 # Define navigation links
 nav_links:
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
   - title: "Projects"
     url: /projects/
