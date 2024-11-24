@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: default
+title: "Home"
+permalink: /
 ---
 
 I’m Anna Leung, a researcher in psycholinguistics at the Ludwig-Maximilians-University of Munich, formerly a Chinese language teacher in Hong Kong schools. 
