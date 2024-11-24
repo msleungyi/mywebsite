@@ -1,0 +1,16 @@
+title: "Anna Leung's Website"
+description: "Check out my academic work on developmental dyslexia, language learning and teaching"
+theme: minima
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://msleungyi.github.io"
+
+social_links:
+  - name: GitHub
+    url: https://github.com/msleungyi
+    icon: fab fa-github
+  - name: LinkedIn
+    url: https://linkedin.com/in/leungyianna
+    icon: fab fa-linkedin
+  - name: X
+    url: https://x.com/leungyianna
+    icon: fab fa-x
