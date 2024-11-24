@@ -23,4 +23,4 @@ permalink: /
 - English, Cantonese, Mandarin Chinese, German, French
 
 ### Academic Services
-I am the Journal Club Secretary and Webmistress of the [German Word Nerd Network (GeWoNN)](https://sites.google.com/view/gewonn/home). I also offer **tailored public speaking training** for academic contexts, empowering individuals of all ages to communicate with confidence and clarity. To learn more about my teaching experience and offerings, please visit my [Teaching](https://msleungyi.github.io/mywebsite/teaching/) page. For inquiries, feel free to contact me at leung.yi.lmu(at)gmail.com
+I am the Journal Club Secretary and Webmistress of the [German Word Nerd Network (GeWoNN)](https://sites.google.com/view/gewonn/home). I also offer **tailored public speaking training** for academic contexts, empowering individuals of all ages to communicate with confidence and clarity. To learn more about my teaching experience and offerings, please visit my [Teaching](https://msleungyi.github.io/mywebsite/teaching/) page. For enquiries, feel free to contact me at leung.yi.lmu(at)gmail.com
