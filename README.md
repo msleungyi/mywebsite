@@ -8,7 +8,7 @@ This repository contains the source code for my academic website hosted on GitHu
 - Interactive blog posts and updates
 
 ## Usage
-To view the website, visit: [https://msleungyi.github.io](https://msleungyi.github.io)
+To view the website, visit: [https://msleungyi.github.io/leungyianna](https://msleungyi.github.io/leungyianna/))
 
 ## Customization
 - Edit the `_config.yml` file to update site settings.
