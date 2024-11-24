@@ -4,14 +4,14 @@ title: "Projects"
 permalink: /projects/
 ---
 
-## Multiverse Analysis of Developmental Dyslexia Subtyping Methods
+### Multiverse Analysis of Developmental Dyslexia Subtyping Methods
 This project reviews the range of data preprocessing techniques, statistical models, and specifications used in subtyping developmental dyslexia from a cognitive-behavioral perspective. It also examines the robustness of subtyping outcomes by exploring the "garden of forking paths" within the multiverse of subtyping methods.
 
 I serve as the co-PI of this project alongside Dr. Daniel Kristanto (University of Oldenburg). Our work is supported by the Treasure Box Funding for Early Career Researchers under the priority programme META-REP (SPP 2317), funded by the German Research Foundation (DFG).
 
 We are currently developing a Shiny App to visualise the multiverse of developmental dyslexia subtyping methods. A demo version is available [here](https://dyslexiaproject.shinyapps.io/profilingdyslexia/).
 
-## Quantification of Heterogeneity in Ontological Definitions of Research Terms
+### Quantification of Heterogeneity in Ontological Definitions of Research Terms
 This project leverages natural language processing (NLP) techniques to quantify the variability in ontological definitions of research terms. These terms encompass concepts related to interdisciplinary research practices, statistical tests, and open scholarship.
 
 The work is part of my doctoral project, "Falsifiability of Cognitive Causal Theories of Developmental Dyslexia" (PI: Dr. Xenia Schmalz), funded by the German Research Foundation (DFG).
