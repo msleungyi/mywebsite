@@ -22,3 +22,8 @@ From 2012 to 2019, I worked as a Public Speaking Tutor at renowned primary and s
 Since 2021, I have been volunteering as a public speaking trainer, providing tailored advice to researchers of all levels in humanities and social sciences across global institutions. My training focuses on enhancing conference presentations, including delivering impactful talks in English, Cantonese, and Mandarin Chinese, with expertise in advanced visualisation techniques and theatrical speaking skills.
 
 If you are interested in workshops, teaching courses, or personalised training to enhance public speaking and presentation skills, please feel free to reach out to me for tailored guidance designed to meet your unique goals and needs.
+
+#### Learn more about my:
+[CV](https://msleungyi.github.io/mywebsite/cv/) |
+[Research Projects](https://msleungyi.github.io/mywebsite/projects/) |
+[Publications](https://msleungyi.github.io/mywebsite/publications/)
