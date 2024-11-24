@@ -1,6 +1,6 @@
 ---
-layout: single
-title: "Curriculum Vitae"
+layout: page
+title: "CV"
 ---
 
 # Curriculum Vitae
