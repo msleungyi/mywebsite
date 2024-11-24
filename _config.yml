@@ -1,5 +1,5 @@
 title: "Anna Leung's Website"
-theme: remote_theme=jekyll/minima
+theme: minima
 
 # Define navigation links
 nav_links:
