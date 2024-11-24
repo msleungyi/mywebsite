@@ -1,1 +1,22 @@
-{% include footer.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+</head>
+<body>
+  <header>
+    <!-- Add navigation bar if needed -->
+    {{ site.nav_links }}
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    {% include footer.html %}
+  </footer>
+</body>
+</html>
