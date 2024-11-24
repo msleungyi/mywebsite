@@ -24,6 +24,6 @@ Since 2021, I have been volunteering as a public speaking trainer, providing tai
 If you are interested in workshops, teaching courses, or personalised training to enhance public speaking and presentation skills, please feel free to reach out to me for tailored guidance designed to meet your unique goals and needs.
 
 #### Learn more about my:
-[CV](https://msleungyi.github.io/mywebsite/cv/) |
+[Resume](https://msleungyi.github.io/mywebsite/resume/) |
 [Research Projects](https://msleungyi.github.io/mywebsite/projects/) |
 [Publications](https://msleungyi.github.io/mywebsite/publications/)
