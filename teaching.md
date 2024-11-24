@@ -9,8 +9,10 @@ As a dedicated educator, I bring over nine years of teaching experience in Hong 
 
 With a B.Ed. in Chinese Language (First Class Honours) from The Education University of Hong Kong, I have combined academic rigour with practical expertise, earning recognition for my research on linguistics and reading assessment. My experience extends beyond the classroom, including contributions as a freelance Chinese textbook editor for Chinese language curricula in Hong Kong.
 
-### Research Seminars
-I have valuable experience teaching in tertiary education, particularly in the field of psycholinguistics and psychometrics. As a Research Seminar Instructor and Project Leader for the M.Sc. Psychology: Learning Sciences Programme at Ludwig-Maximilians-University of Munich (2022–2023), I designed and delivered research seminars, guiding graduate students in developing their critical thinking skills, research design, and data analysis skills. My teaching philosophy emphasises fostering independent inquiry, collaboration, and the application of research methodologies to real-world problems.
+### Research Seminars in Psycholinguistics & Learning Sciences
+I have valuable experience teaching in tertiary education, particularly in the field of psychology and learning sciences. Worked as a Research Seminar Instructor for the M.Sc. Psychology: Learning Sciences Programme at Ludwig-Maximilians-University of Munich, I designed and delivered research seminars, guiding graduate students in developing their research and critical thinking skills. Many of my students have presented their work at prestigious international conferences, including the Cognitive Science Arena and the Annual Conference for the Association for Reading and Writing in Asia (AWRA).
+
+In addition to teaching, I supervise master’s theses, providing personalised guidance in research design, data analysis, and academic writing to ensure the successful completion of their projects. My teaching philosophy emphasises fostering independent inquiry, academic excellence, and meaningful contributions to the research community.
 
 ### Public Speaking Training
 My public speaking journey began during my school years, where I received extensive training and served as a student leader, coaching solo and choral speech teams. These teams achieved championships in the highly competitive Hong Kong Speech Festivals, fostering my passion for speech and communication. Since then, I have applied these skills to my professional teaching and academic work.
