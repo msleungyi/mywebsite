@@ -1,7 +1,9 @@
 title: "Anna Leung's Website"
-remote_theme: "daattali/beautiful-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 
-menu:
+navigation:
   - title: "Home"
     url: "/"
   - title: "CV"
