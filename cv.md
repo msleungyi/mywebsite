@@ -25,6 +25,6 @@ permalink: /cv/
 [Download Full CV (PDF)](assets/Leung_Academic CV_Full_24-11-2024.pdf)
 
 #### Learn more about my:
-[Research Projects](https://msleungyi.github.io/mywebsite/projects/)|
-[Publications](https://msleungyi.github.io/mywebsite/publications/)|
+[Research Projects](https://msleungyi.github.io/mywebsite/projects/) |
+[Publications](https://msleungyi.github.io/mywebsite/publications/) |
 [Teaching](https://msleungyi.github.io/mywebsite/teaching/)
