@@ -17,3 +17,8 @@ This project leverages natural language processing (NLP) techniques to quantify 
 The work is part of my doctoral project, "Falsifiability of Cognitive Causal Theories of Developmental Dyslexia" (PI: Dr. Xenia Schmalz), funded by the German Research Foundation (DFG).
 
 In collaboration with Dr. Daniel Kristanto and Ivan Melev, we are developing a Shiny app, "Re-SearchTerms", to visualise the diverse definitions of research terms extracted from academic sources. This app aims to aid researchers in comparing the language used in these definitions, fostering greater clarity and consistency in defining concepts for future academic work. Check out the demo version of our Shiny App: [Re-SearchTerms](https://msleungyi.shinyapps.io/Re-SearchTerms/)
+
+#### Learn more about my:
+[CV](https://msleungyi.github.io/mywebsite/cv/) |
+[Publications](https://msleungyi.github.io/mywebsite/publications/) |
+[Teaching](https://msleungyi.github.io/mywebsite/teaching/)
