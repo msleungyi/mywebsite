@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-<img src="/assets/images/profile.jpg" alt="Anna Leung" style="width:150px; border-radius:50%; display:block; margin:auto;">
+<img src="/assets/images/Anna Leung_Photo.jpg" alt="Anna Leung" style="width:150px; border-radius:50%; display:block; margin:auto;">
 
 I’m Anna Leung, a researcher in psycholinguistics at the Ludwig-Maximilians-University of Munich, formerly a Chinese language teacher in Hong Kong schools. 
 
