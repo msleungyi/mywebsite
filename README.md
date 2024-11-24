@@ -8,11 +8,7 @@ This repository contains the source code for my academic website hosted on GitHu
 - Interactive blog posts and updates
 
 ## Usage
-To view the website, visit: [https://msleungyi.github.io/leungyianna](https://msleungyi.github.io/leungyianna/))
-
-## Customization
-- Edit the `_config.yml` file to update site settings.
-- Modify content in the `_pages` and `_posts` directories.
+To view the website, visit: [https://msleungyi.github.io/cv](https://msleungyi.github.io/cv/))
 
 ## Credits
 Built using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
