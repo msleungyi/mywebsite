@@ -8,18 +8,18 @@ permalink: /
 - Researcher in **psycholinguistics** at the Ludwig-Maximilians-University of Munich
 - Former **Chinese language teacher** in Hong Kong schools
 
-### Research Interests:
+### **Research Interests:**
 - Causes and subtypes of developmental dyslexia
 - Cognition in reading
 - Psychometrics in psycholinguistics
 - Meta-research methodologies and philosophy of language
 
-### Skills and Abilities
+### **Skills and Abilities**
 **Statistics, Data Processing, and Programming**
 - Frequentist and Bayesian multilevel modelling, structural equation modelling, cluster analysis, item response theory, meta-analysis, multiverse analysis, natural language processing (NLP)
 - R and Shiny App, Python, SPSS, PsychoPy, OpenSesame, HTML, Praat, CLAN
 
-**Language**
+**Languages**
 - English, Cantonese, Mandarin Chinese, German, French
 
 ### Academic Services
