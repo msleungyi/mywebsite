@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: page
 title: "Blog"
+permalink: /blog/
 ---
 
 # Blog
