@@ -1,11 +1,5 @@
 title: "Anna Leung's Website"
-theme: minima
-
-description: |
-  [Email](mailto:leung.yi.lmu@gmail.com) |
-  [ORCID](https://orcid.org/0000-0003-0720-5036) |
-  [LinkedIn](https://linkedin.com/in/leungyianna) |
-  [Twitter](https://x.com/leungyianna)
+theme: remote_theme=jekyll/minima
 
 # Define navigation links
 nav_links:
