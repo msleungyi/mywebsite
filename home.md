@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 ---
 
-<div style="text-align: left; margin-top: 20px; line-height: 1.8;">
+<div style="text-align: left; margin-top: 20px;">
   <p>
     I’m Anna Leung, a researcher in psycholinguistics at the Ludwig-Maximilians-University of Munich, formerly a Chinese language teacher in Hong Kong schools.
   </p>
