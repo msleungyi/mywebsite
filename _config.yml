@@ -1,14 +1,17 @@
 title: "Anna Leung's Website"
 theme: minima
 
+# Define navigation links
 nav_links:
-  - title: "CV"
-    url: "/cv/"
-  - title: "Publications"
-    url: "/publications/"
+  - title: "Home"
+    url: /
+  - title: "Curriculum Vitae"
+    url: /cv/
   - title: "Projects"
-    url: "/projects/"
+    url: /projects/
+  - title: "Publications"
+    url: /publications/
   - title: "Teaching"
-    url: "/teaching/"
+    url: /teaching/
   - title: "Blog"
-    url: "/blog/"
+    url: /blog/
