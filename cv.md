@@ -22,4 +22,4 @@ permalink: /cv/
 | 2015–2016             | Freelance Textbook Editor, The Commercial Press (HK) Ltd                               |
 | 2013–2016             | Student Research Assistant, The Education University of Hong Kong                      |
 
-[Download Full CV (PDF)](assets/CV.pdf)
+[Download Full CV (PDF)](assets/Leung_Academic CV_Full_24-11-2024.pdf)
