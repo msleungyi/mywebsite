@@ -8,7 +8,7 @@ permalink: /
   <!-- Left Section -->
   <div style="flex: 1; text-align: center; max-width: 200px; margin-right: 20px;">
     <!-- Profile Picture -->
-    <img src="/assets/images/Anna Leung_Photo.jpg" alt="Anna Leung" style="width: 150px; height: 150px; border-radius: 50%; border: 2px solid #ccc;">
+    <img src="/assets/images/Photo.jpg" alt="Anna Leung" style="width: 150px; height: 150px; border-radius: 50%; border: 2px solid #ccc;">
     
     <!-- Contact Info -->
     <p style="margin-top: 10px;">
