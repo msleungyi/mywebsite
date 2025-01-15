@@ -16,7 +16,7 @@ The work is part of my doctoral project, "Falsifiability of Cognitive Causal The
 
 This project leverages natural language processing (NLP) techniques to quantify the variability in ontological definitions of research terms. These terms encompass concepts related to interdisciplinary research practices, statistical tests, and open scholarship.
 
-In collaboration with Dr. Daniel Kristanto and Ivan Melev, we are developing a Shiny app, "Re-SearchTerms", to visualise the diverse definitions of research terms extracted from academic sources. This app aims to aid researchers in comparing the language used in these definitions, fostering greater clarity and consistency in defining concepts for future academic work. Check out the demo version of our Shiny App: **[Re-SearchTerms](https://msleungyi.shinyapps.io/Re-SearchTerms/)**
+In collaboration with Dr. Daniel Kristanto, we are developing a Shiny app, "Re-SearchTerms", to visualise the diverse definitions of research terms extracted from academic sources. This app aims to aid researchers in comparing the language used in these definitions, fostering greater clarity and consistency in defining concepts for future academic work. Check out the demo version of our Shiny App: **[Re-SearchTerms](https://msleungyi.shinyapps.io/Re-SearchTerms/)** The preprint is also now available **[here](https://doi.org/10.31219/osf.io/qsp7x)**.
 
 #### Learn more about my:
 [Resume](https://msleungyi.github.io/mywebsite/resume/) |
